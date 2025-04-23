@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Tarale</h1>
-<h3 align="center">🎯 Data Analyst | 📊 Passionate about turning data into actionable insights | 🎨 Sketching & Painting Enthusiast 🧰 Tech Stack & Tools - 📌 Languages: Python, SQL, R (basic) - 📊 Analytics Tools: Excel, Power BI, Tableau - 🛠 Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn - 🗄️ Databases: MySQL, SQLite - 🔍 Others: Git, Jupyter Notebook, Google Sheets</h3>
+<h3 align="center">🎯 Data Analyst | 📊 Passionate about turning data into actionable insights | 🎨 Sketching & Painting Enthusiast 🧰 Tech Stack & Tools 
+  - 📌 Languages: Python, SQL, R (basic)
+  - 📊 Analytics Tools: Excel, Power BI, Tableau 
+  - 🛠 Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn 
+  - 🗄️ Databases: MySQL, SQLite - 🔍 Others: Git, Jupyter Notebook, Google Sheets</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
