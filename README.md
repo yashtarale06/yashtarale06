@@ -1,3 +1,57 @@
+# 👋 Hi, I'm Yash Tarale
+
+🎯 Aspiring Data Analyst | 📊 Passionate about turning data into actionable insights  
+📍 From Mul, Chandrapur, India | 🏏 Cricket Athlete | 🎨 Sketching & Painting Enthusiast
+
+---
+
+## 🧰 Tech Stack & Tools
+
+- 📌 **Languages**: Python, SQL, R (basic)
+- 📊 **Analytics Tools**: Excel, Power BI, Tableau
+- 🛠 **Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn
+- 🗄️ **Databases**: MySQL, SQLite
+- 🔍 **Others**: Git, Jupyter Notebook, Google Sheets
+
+---
+
+## 📈 What I'm Working On
+
+- Improving my SQL and Power BI skills  
+- Building interactive dashboards for real-world datasets  
+- Collaborating on open-source data projects  
+- Learning how to tell compelling stories with data  
+
+---
+
+## 📂 Featured Projects
+
+- **EDA on IPL Dataset**  
+  Analyzed player performance and match trends using Python and visualization libraries.  
+  [🔗 View on GitHub](#)
+
+- **COVID-19 Dashboard with Power BI**  
+  Built a real-time dashboard showcasing country-wise trends and statistics.  
+  [🔗 View on GitHub](#)
+
+- **Sales Insights using Excel & SQL**  
+  Cleaned, queried, and analyzed a sales dataset to uncover key business insights.  
+  [🔗 View on GitHub](#)
+
+---
+
+## 📬 Connect with Me
+
+- 💼 [LinkedIn](#)  
+- 📧 yash.tarale@example.com  
+- 🧠 Always up for collaboration, learning, and growth in data analytics!
+
+---
+
+_“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee_
+
+
+
 <h1 align="center">Hi 👋, I'm Yash Tarale</h1>
 <h3 align="center">🎯 Data Analyst | 📊 Passionate about turning data into actionable insights | 🎨 Sketching & Painting Enthusiast 🧰 Tech Stack & Tools 
   - 📌 Languages: Python, SQL, R (basic)
